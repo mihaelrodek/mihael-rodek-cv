@@ -133,9 +133,7 @@ projects:
 oss:
     title: Open Source Software Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      TBD
     contributions:
       - title: Helm File Utils
         link: "https://github.com/true-north-engineering/helm-file-utils"
