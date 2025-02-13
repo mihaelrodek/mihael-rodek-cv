@@ -1,7 +1,3 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -9,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Mihael Rodek
-    tagline: Full Stack Developer
+    tagline: Mid Full Stack Developer
     avatar: mrodek.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,54 +33,52 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Fluent
 
         - idiom: German
-          level: Professional
+          level: Basic
 
     interests:
-      title: Interests
+      title: Hobbies & Interests
       info:
+        - item: Technology
+          link: 
+        - item: Gym & running
+          link: 
+        - item: Padel
+          link: 
         - item: Darts
-          link:
-
-        - item: IT, Technology
-          link:
-
-        - item: Cooking
-          link:
+          link:           
 
 career-profile:
     title: Career Profile
     summary: |
-      TBD
+      Dynamic and motivated software developer with an academic background from FER in Croatia.
+      During studies, actively pursued specialized courses that deepened expertise in software development. 
+      Began the professional journey as a student and has continuously refined skills since graduating, 
+      consistently applying acquired knowledge to real-world projects. Passionate about technology and innovation, 
+      committed to integrate theoretical understanding with practical experience in every project that is being worked on.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Engineering
-        university: University of Zagreb, Faculty of Electrical Engineering and Computing
+      - degree: MSc in Computer Engineering, univ. mag. ing. comp.
+        university: Faculty of Electrical Engineering and Computing (FER), University of Zagreb
         time: 2018 - 2023
         details: |
-          Relevant courses: Object Oriented Programming, Android app development, Java course by Marko Čupić, 
+          Relevant courses - Object Oriented Programming, Android app development, Java course by Marko Čupić, 
           Web and Mobile Software Development, Artificial Intelligence
-            - Undergraduate thesis: Student canteen Android application
-            - Masters thesis: System for support of interactive applications and video games on a video wall
       - degree: Gymnasium
         university: High school Ivanec
         time: 2014 - 2018
         details: |
-          Multiple inter-county competitions, festivals and summer camps in STEM related fields, national mathematics competition
-      - degree: Mathematics classes
-        university: Center of excellence Varaždin
-        time: 2009 - 2018
-        details: |
-          Attended extra mathematics classes weekly
-
+          Participated in multiple inter-county competitions, festivals, and summer camps in STEM-related fields, 
+          including a national mathematics competition, while deepening mathematical knowledge through weekly 
+          advanced classes at the Center of Excellence in Varaždin.
 experiences:
     title: Experiences
     info:
       - role: Full Stack Developer
-        time: 2021 - Present
+        time: Oct, 2021 - Present
         company: True North
         details: |
           Full Stack Developer with expertise in GoLang, Java and React, 
@@ -142,25 +136,30 @@ oss:
 publications:
     title: Publications
     intro: |
-      TBD
+      Published thesis as part of my finals degrees
     papers:
       - title: System for support of interactive applications and video games on a video wall
         link: "https://repozitorij.fer.unizg.hr/islandora/object/fer:11550"
         authors: Mihael Rodek
         conference: "Masters Thesis"
+      - title: Student canteen Android application
+        link: "https://zir.nsk.hr/islandora/object/fer:10086"
+        authors: Mihael Rodek
+        conference: "Bachelor's Thesis"
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Java
-        level: 90%
+        level: 80%
 
       - name: Golang
-        level: 80%
+        level: 65%
 
       - name: React &amp; Typescript
-        level: 80%
+        level: 70%
 
       - name: Git &amp; Other Tools
         level: 80%
