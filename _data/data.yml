@@ -99,38 +99,25 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Projects I have contributed to while attending my masters degree at FER.
+      Projects contributed to while attending Masters degree at FER.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
       - title: ShowsApp
-        link: "#"
-        tagline: "Android application developed as part of Infinum Summer school that shows various TV shows gathered from given API."
-
+        tagline: "Android application developed as part of Infinum Summer school that shows various TV shows gathered from given API"
       - title: PizzaDeliveryApp
-        link: "#"
-        tagline: "Java Spring Boot application developed as part of Agency04 Summer school for managing pizza deliveries using REST."
-
+        tagline: "Java Spring Boot application developed as part of Agency04 Summer school for managing pizza deliveries using REST API"
       - title: MenzaApp
-        link: "#"
-        tagline: "Application developed as part of undergraduate thesis"
-
+        tagline: "Application developed as part of undergraduate thesis for student canteen"
       - title: HumanitarianDogWalkers
-        link: "#"
         tagline: "A simple web application developed as group project on Software Engineering course"
-
       - title: SmartAgriculture
-        link: "#"
-        tagline: "◦	University IoT group project for measuring and displaying multiple sensor values on Android and iOS devices using Waspmote and Pycom"
+        tagline: "University IoT group project for measuring and displaying multiple sensor values on Android and iOS devices using Waspmote and Pycom"
 
 oss:
     title: Open Source Software Contributions
     contributions:
       - title: Helm File Utils
         link: "https://github.com/true-north-engineering/helm-file-utils"
-        tagline: "A Helm downloader plugin that supports different file manipulations, conversions, encoders and decoders."
+        tagline: "Developed a Helm downloader plugin that supports different file utils and manipulations such as conversions, encoding, decoding, etc."
 
 publications:
     title: Publications
