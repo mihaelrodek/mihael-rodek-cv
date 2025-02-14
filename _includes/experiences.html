@@ -29,12 +29,20 @@
     </div><!--//details-->
     {% endif %}
 
-    {% for exp in experience.projects %}
-    <div class="upper-row">
-      <h3 class="job-title">{{ exp.name }}</h3>
-      <div class="time">{{ exp.details }}</div>
-    </div><!--//upper-row-->
+    {% if experience.projects %}
+    <div class="projects">
+      <h4>Projects:</h4>
+      {% for project in experience.projects %}
+      <div class="project">
+        <h3 class="project-title">{{ project.name }}</h3>
+        <div class="project-details">
+          {{ project.details | markdownify }}
+        </div>
+      </div><!--//project-->
+      {% endfor %}
+    </div><!--//projects-->
     {% endif %}
+
 
   </div><!--//item-->
   {% endfor %}
