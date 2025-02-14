@@ -66,7 +66,7 @@ education:
         time: 2018 - 2023
         details: |
           Attended courses that enhanced expertise in software development, including notable courses 
-          such as Object-Oriented Programming, Android App Development, an Exprrt Java course by Marko Čupić, 
+          such as Object-Oriented Programming, Android App Development, an Expert Java course by Marko Čupić, 
           Web and Mobile Software Development and Artificial Intelligence.
       - degree: Gymnasium
         university: High school Ivanec
@@ -127,8 +127,6 @@ projects:
 
 oss:
     title: Open Source Software Contributions
-    intro: >
-      TBD
     contributions:
       - title: Helm File Utils
         link: "https://github.com/true-north-engineering/helm-file-utils"
@@ -137,15 +135,13 @@ oss:
 publications:
     title: Publications
     intro: |
-      Published thesis as part of my finals degrees
+      Published Bachelor's and Master's theses, focused on software solutions for interactive systems and mobile applications. 
     papers:
       - title: System for support of interactive applications and video games on a video wall
         link: "https://repozitorij.fer.unizg.hr/islandora/object/fer:11550"
-        authors: Mihael Rodek
-        conference: "Masters Thesis"
+        conference: "Master's Thesis"
       - title: Student canteen Android application
         link: "https://zir.nsk.hr/islandora/object/fer:10086"
-        authors: Mihael Rodek
         conference: "Bachelor's Thesis"
 
 
@@ -157,10 +153,10 @@ skills:
         level: 80%
 
       - name: Golang
-        level: 65%
+        level: 60%
 
       - name: React &amp; Typescript
-        level: 70%
+        level: 60%
 
       - name: Git &amp; Other Tools
         level: 80%
