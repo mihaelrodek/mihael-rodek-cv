@@ -83,7 +83,16 @@ experiences:
         company: True North
         details: |
           Full Stack Developer with expertise in GoLang, Java and React, 
-          partly consultant role understanding client requirements and providing technical solutions
+          having partly consultant role understanding client requirements and providing technical solutions
+        projects:
+          name: Test
+          details: |
+            NSasa
+            ASAsa
+          name: Test2
+          details: |
+            NSasa
+            ASAsa
 certifications:
       title: Certifications
       list:
