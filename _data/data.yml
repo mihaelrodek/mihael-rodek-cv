@@ -85,7 +85,7 @@ experiences:
           Full Stack Developer with expertise in GoLang, Java and React, 
           having partly consultant role understanding client requirements and providing technical solutions
         projects:
-          name: Test
+        - name: Test
           details: |
             NSasa
             ASAsa
