@@ -86,13 +86,16 @@ experiences:
           having partly consultant role understanding client requirements and providing technical solutions
         projects:
         - name: RBA.hr
+          time: Oct, 2023 - Present
           details: |
-            Full stack developer in Card Issuing team that is developing new card platform within the RBA Croatia group.
+            Full stack developer in Card Issuing team that is developing new card platform within the RBA Croatia group. 
         - name: HZMO
+          time: Dec, 2022 - Feb, 2023
           details: |
-            Development of a small-scale project for HZMO that calculates a user's share of the family pension (DOM). 
-            Contributed to the project as a sole frontend developer, with insight into the business processes within the application.
+            Development of a small-scale project for HZMO that calculates a user's share of the family pension. 
+            Contributed to the project as a sole frontend developer, with insights into the business processes within the application.
         - name: AKD Squid2
+          time: Oct, 2021 - Oct, 2023
           details: |
             Developer on a complex microservices architecture project for a card issuing and production management system. 
             Worked on both backend and frontend development, following the best development practices.

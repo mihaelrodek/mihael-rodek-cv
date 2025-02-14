@@ -35,6 +35,7 @@
       {% for project in experience.projects %}
       <div class="project">
         <h6 class="project-title">{{ project.name }}</h6>
+        <div class="time">{{ project.time }}</div>
         <div class="project-details">
           {{ project.details | markdownify }}
         </div>
