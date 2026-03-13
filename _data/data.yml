@@ -133,7 +133,9 @@ certifications:
           credentialname: Oracle Certified Professional - Java SE 21 Developer
           details: |
             Oracle Certified Professional certification validating advanced knowledge of Java SE 21
-            and professional-level Java development skills.
+            and professional-level Java development skills, including object-oriented programming,
+            core language features, exception handling, collections, streams, concurrency, and
+            modern Java best practices.
 projects:
     title: Projects
     intro: >
