@@ -123,7 +123,7 @@ certifications:
             Red Hat Cloud-native Microservices Development with Quarkus
         - name: Oracle Certified Professional: Java SE 21 Developer
           start: 2026
-          end: Completed
+          end: In progress
           organization: Oracle
           credentialid: 1Z0-830
           credentialurl: https://education.oracle.com/java-se-21-developer-certified-professional/trackp_JSE21OCP
