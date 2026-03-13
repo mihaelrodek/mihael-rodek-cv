@@ -45,19 +45,21 @@ sidebar:
           link: 
         - item: Gym & running
           link: 
-        - item: Padel
-          link: 
         - item: Darts
           link:           
 
 career-profile:
     title: Career Profile
     summary: |
-      Dynamic and motivated software developer with an academic background from FER in Croatia.
-      During studies, actively pursued specialized courses that deepened expertise in software development. 
-      Began the professional journey as a student and has continuously refined skills since graduating, 
-      consistently applying acquired knowledge to real-world projects. Passionate about technology and innovation, 
-      committed to integrate theoretical understanding with practical experience in every project that is being worked on.
+      Motivated software developer with a strong academic background from FER, Croatia,
+      and hands-on experience in delivering real-world solutions. During university,
+      pursued specialized coursework to strengthen expertise in software development and
+      build a solid technical foundation. Started a professional career as a student and
+      has continued to develop skills through practical experience after graduation. 
+      Brings a strong ability to apply theoretical knowledge to complex projects, with a
+      focus on technology, innovation, and delivering reliable, high-quality software solutions.
+      In free time, enjoys working on personal and DIY projects, further exploring new technologies
+      and practical problem-solving.
 education:
     title: Education
     info:
@@ -65,15 +67,15 @@ education:
         university: Faculty of Electrical Engineering and Computing (FER), University of Zagreb
         time: 2018 - 2023
         details: |
-          Attended courses that enhanced expertise in software development, including notable courses 
-          such as Object-Oriented Programming, Android App Development, an Expert Java course by Marko Čupić, 
-          Web and Mobile Software Development and Artificial Intelligence.
+          Completed coursework that strengthened expertise in software development, with a focus on
+          Object-Oriented Programming, Android Application Development, Expert Java course (led by Marko Čupić),
+          Web and Mobile Software Development, and Artificial Intelligence.
       - degree: Gymnasium
         university: High school Ivanec
         time: 2014 - 2018
         details: |
-          Participated in multiple inter-county competitions, festivals, and summer camps in STEM-related fields, 
-          including a national mathematics competition, while deepening mathematical knowledge through weekly 
+          Participated in several inter-county competitions, festivals, and summer camps in STEM-related fields,
+          including a national mathematics competition. Further developed mathematical knowledge through weekly
           advanced classes at the Center of Excellence in Varaždin.
 experiences:
     title: Experiences
@@ -82,28 +84,36 @@ experiences:
         time: Oct, 2021 - Present
         company: True North
         details: |
-          Full Stack Developer with expertise in GoLang, Java and React, 
-          having partly consultant role understanding client requirements and providing technical solutions
+            Full Stack Developer with expertise in Go, Java, and React, working on projects in various industries,
+            including banking and public sector solutions. Combines technical development with a consultative approach,
+            helping define requirements and deliver effective software solutions.
         projects:
         - name: RBA.hr
           time: Oct, 2023 - Present
           details: |
-            Full stack developer in Card Issuing team that is developing new card platform within the RBA Croatia group. 
+            Full Stack Developer in the Card Issuing team, working on the development and maintenance of a new card platform
+            within the RBA Croatia group. Contributes to the implementation of new features, platform migration activities,
+            daily incident handling, production support, and ongoing system improvements. Involved in ensuring platform stability,
+            supporting business-critical processes, and delivering reliable solutions in a complex banking environment.        
         - name: HZMO
           time: Dec, 2022 - Feb, 2023
           details: |
-            Development of a small-scale project for HZMO that calculates a user's share of the family pension. 
-            Contributed to the project as a sole frontend developer, with insights into the business processes within the application.
+            Worked on the development of an application for HZMO used to calculate a user’s share of the family pension.
+            Contributed as the sole frontend developer, responsible for implementing the frontend and gaining valuable insight
+            into the business processes behind the application.
         - name: AKD Squid2
           time: Oct, 2021 - Oct, 2023
           details: |
-            Developer on a complex microservices architecture project for a card issuing and production management system. 
-            Worked on both backend and frontend development, following the best development practices.
+            Worked on a complex project based on microservices architecture for card issuing and production management.
+            Contributed to both backend and frontend development, participating in the implementation of new features,
+            aintenance of existing functionalities, and continuous improvement of the system. Collaborated within a team
+            on a large-scale solution, following best development practices and gaining experience in designing and building
+            reliable, scalable software in a demanding domain.
 certifications:
       title: Certifications
       list:
         - name: Red Hat Cloud-native Microservices Development with Quarkus
-          start: 2024
+          start: 2025
           end: In progress
           organization: RedHat
           credentialid: DO378
@@ -111,6 +121,16 @@ certifications:
           credentialname: Red Hat Cloud-native Microservices Development with Quarkus
           details: |
             Red Hat Cloud-native Microservices Development with Quarkus
+        - name: Oracle Certified Professional: Java SE 21 Developer
+          start: 2026
+          end: Completed
+          organization: Oracle
+          credentialid: 1Z0-830
+          credentialurl: https://education.oracle.com/java-se-21-developer-certified-professional/trackp_JSE21OCP
+          credentialname: Oracle Certified Professional: Java SE 21 Developer
+          details: |
+            Oracle Certified Professional certification validating advanced knowledge of Java SE 21
+            and professional-level Java development skills.
 projects:
     title: Projects
     intro: >
@@ -155,7 +175,7 @@ skills:
         level: 80%
 
       - name: Golang
-        level: 60%
+        level: 50%
 
       - name: React &amp; Typescript
         level: 60%
