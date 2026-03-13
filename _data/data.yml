@@ -86,7 +86,10 @@ experiences:
         details: |
             Full Stack Developer with expertise in Go, Java, and React, working on projects in various industries,
             including banking and public sector solutions. Combines technical development with a consultative approach,
-            helping define requirements and deliver effective software solutions.
+            helping define requirements and deliver effective software solutions. Experienced in working on both backend
+            and frontend components, contributing throughout the full software development lifecycle, from requirements
+            analysis and implementation to maintenance and production support. Works closely with clients and internal teams
+            to understand business needs, improve existing systems, and deliver reliable, scalable, and high-quality solutions.
         projects:
         - name: RBA.hr
           time: Oct, 2023 - Present
@@ -106,7 +109,7 @@ experiences:
           details: |
             Worked on a complex project based on microservices architecture for card issuing and production management.
             Contributed to both backend and frontend development, participating in the implementation of new features,
-            aintenance of existing functionalities, and continuous improvement of the system. Collaborated within a team
+            maintenance of existing functionalities, and continuous improvement of the system. Collaborated within a team
             on a large-scale solution, following best development practices and gaining experience in designing and building
             reliable, scalable software in a demanding domain.
 certifications:
