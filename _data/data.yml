@@ -5,7 +5,7 @@ sidebar:
 
     # Profile information
     name: Mihael Rodek
-    tagline: Mid Full Stack Developer
+    tagline: Software Engineer
     avatar: mrodek.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -51,15 +51,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Motivated software developer with a strong academic background from FER, Croatia,
-      and hands-on experience in delivering real-world solutions. During university,
-      pursued specialized coursework to strengthen expertise in software development and
-      build a solid technical foundation. Started a professional career as a student and
-      has continued to develop skills through practical experience after graduation. 
-      Brings a strong ability to apply theoretical knowledge to complex projects, with a
-      focus on technology, innovation, and delivering reliable, high-quality software solutions.
-      In free time, enjoys working on personal and DIY projects, further exploring new technologies
-      and practical problem-solving.
+      Software Engineer with 5 years of professional experience building and maintaining
+      business-critical systems, primarily in the banking and public sector. Works across the
+      full stack with Java, Go, and React, and across the full software development lifecycle,
+      from requirements analysis and implementation to production support. Holds an MSc in
+      Computer Engineering from FER, University of Zagreb, and started working professionally
+      while still a student. Focused on delivering reliable, maintainable software and on
+      continuous learning through certifications, AI-assisted development, and personal and
+      DIY projects.
 education:
     title: Education
     info:
@@ -78,52 +77,60 @@ education:
           including a national mathematics competition. Further developed mathematical knowledge through weekly
           advanced classes at the Center of Excellence in Varaždin.
 experiences:
-    title: Experiences
+    title: Experience
     info:
+      - role: Software Engineer
+        time: May, 2026 - Present
+        company: BGW Electronics
+        details: |
+            Software Engineer in a true full stack role, covering backend, frontend, DevOps, and AI.
+            Designs, builds, and maintains both internal applications and solutions for external clients,
+            owning them end to end, from architecture and implementation to deployment and operations.
+            Applies AI in day-to-day development and integrates it into the delivered solutions.
       - role: Full Stack Developer
-        time: Oct, 2021 - Present
+        time: Oct, 2021 - Apr, 2026
         company: True North
         details: |
-            Full Stack Developer with expertise in Go, Java, and React, working on projects in various industries,
-            including banking and public sector solutions. Combines technical development with a consultative approach,
-            helping define requirements and deliver effective software solutions. Experienced in working on both backend
-            and frontend components, contributing throughout the full software development lifecycle, from requirements
-            analysis and implementation to maintenance and production support. Works closely with clients and internal teams
-            to understand business needs, improve existing systems, and deliver reliable, scalable, and high-quality solutions.
+            Full Stack Developer working with Go, Java, and React on projects across several industries,
+            including banking and the public sector. Combined hands-on development with a consultative approach,
+            helping clients define requirements and shaping them into effective software solutions. Worked on both
+            backend and frontend components throughout the full software development lifecycle, from requirements
+            analysis and implementation to maintenance and production support. Collaborated closely with clients and
+            internal teams to understand business needs, improve existing systems, and deliver reliable, scalable solutions.
         projects:
         - name: RBA.hr
-          time: Oct, 2023 - Present
+          time: Oct, 2023 - Apr, 2026
           details: |
-            Full Stack Developer in the Card Issuing team, working on the development and maintenance of a new card platform
-            within the RBA Croatia group. Contributes to the implementation of new features, platform migration activities,
-            daily incident handling, production support, and ongoing system improvements. Involved in ensuring platform stability,
-            supporting business-critical processes, and delivering reliable solutions in a complex banking environment.        
+            Full Stack Developer in the Card Issuing team, developing and maintaining a new card platform
+            within the RBA Croatia group. Implemented new features, took part in platform migration activities,
+            and handled daily incidents and production support. Helped keep the platform stable and supported
+            business-critical processes in a complex banking environment.
         - name: HZMO
           time: Dec, 2022 - Feb, 2023
           details: |
-            Worked on the development of an application for HZMO used to calculate a user’s share of the family pension.
-            Contributed as the sole frontend developer, responsible for implementing the frontend and gaining valuable insight
-            into the business processes behind the application.
+            Developed an application for HZMO (Croatian Pension Insurance Institute) that calculates a user's
+            share of a family pension. As the sole frontend developer, owned the entire frontend implementation
+            and gained valuable insight into the business processes behind the application.
         - name: AKD Squid2
           time: Oct, 2021 - Oct, 2023
           details: |
-            Worked on a complex project based on microservices architecture for card issuing and production management.
-            Contributed to both backend and frontend development, participating in the implementation of new features,
-            maintenance of existing functionalities, and continuous improvement of the system. Collaborated within a team
-            on a large-scale solution, following best development practices and gaining experience in designing and building
-            reliable, scalable software in a demanding domain.
+            Worked on a large-scale, microservices-based system for card issuing and production management.
+            Contributed to both backend and frontend development, implementing new features, maintaining
+            existing functionality, and continuously improving the system. Gained experience in designing and
+            building reliable, scalable software in a demanding domain while following development best practices.
 certifications:
       title: Certifications
       list:
-        - name: Red Hat Cloud-native Microservices Development with Quarkus
-          start: 2025
+        - name: Claude Certified Architect - Foundations
+          start: 2026
           end: In progress
-          organization: RedHat
-          credentialid: DO378
-          credentialurl: www.redhat.com/en/services/training/red-hat-cloud-native-microservices-development-quarkus-do378
-          credentialname: Red Hat Cloud-native Microservices Development with Quarkus
+          organization: Anthropic
+          credentialid: CCA-F
           details: |
-            Red Hat Cloud-native Microservices Development with Quarkus
+            Certification validating the ability to design and build production-grade solutions with Claude,
+            covering agentic architecture and orchestration, tool design and MCP integration, Claude Code
+            configuration and workflows, prompt engineering and structured output, and context management
+            and reliability.
         - name: Oracle Certified Professional - Java SE 21 Developer
           start: 2026
           end: In progress
@@ -139,16 +146,16 @@ certifications:
 projects:
     title: Projects
     intro: >
-      Projects contributed to while attending Masters degree at FER.
+      Projects built during studies at FER and at industry summer schools.
     assignments:
       - title: ShowsApp
-        tagline: "Android application developed as part of Infinum Summer school that shows various TV shows gathered from given API"
+        tagline: "Android application developed at the Infinum summer school for browsing TV shows fetched from a REST API"
       - title: PizzaDeliveryApp
-        tagline: "Java Spring Boot application developed as part of Agency04 Summer school for managing pizza deliveries using REST API"
+        tagline: "Java Spring Boot application developed at the Agency04 summer school for managing pizza deliveries through a REST API"
       - title: MenzaApp
-        tagline: "Application developed as part of undergraduate thesis for student canteen"
+        tagline: "Android application for a student canteen, developed as part of the Bachelor's thesis"
       - title: HumanitarianDogWalkers
-        tagline: "A simple web application developed as group project on Software Engineering course"
+        tagline: "Web application developed as a group project in the Software Engineering course"
       - title: SmartAgriculture
         tagline: "University IoT group project for measuring and displaying multiple sensor values on Android and iOS devices using Waspmote and Pycom"
 
@@ -157,12 +164,12 @@ oss:
     contributions:
       - title: Helm File Utils
         link: "https://github.com/true-north-engineering/helm-file-utils"
-        tagline: "Developed a Helm downloader plugin that supports different file utils and manipulations such as conversions, encoding, decoding, etc."
+        tagline: "Helm downloader plugin that supports file utilities and transformations such as format conversion, encoding, and decoding"
 
 publications:
     title: Publications
     intro: |
-      Published Bachelor's and Master's theses, focused on software solutions for interactive systems and mobile applications. 
+      Published Bachelor's and Master's theses, focused on software solutions for interactive systems and mobile applications.
     papers:
       - title: System for support of interactive applications and video games on a video wall
         link: "https://repozitorij.fer.unizg.hr/islandora/object/fer:11550"
